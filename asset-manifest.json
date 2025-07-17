@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/quoteverse/static/css/main.078524fb.css",
-    "main.js": "/quoteverse/static/js/main.f383fd46.js",
-    "index.html": "/quoteverse/index.html",
-    "main.078524fb.css.map": "/quoteverse/static/css/main.078524fb.css.map",
-    "main.f383fd46.js.map": "/quoteverse/static/js/main.f383fd46.js.map"
+    "main.css": "/React-2-Quoteverse/static/css/main.078524fb.css",
+    "main.js": "/React-2-Quoteverse/static/js/main.f383fd46.js",
+    "index.html": "/React-2-Quoteverse/index.html",
+    "main.078524fb.css.map": "/React-2-Quoteverse/static/css/main.078524fb.css.map",
+    "main.f383fd46.js.map": "/React-2-Quoteverse/static/js/main.f383fd46.js.map"
   },
   "entrypoints": [
     "static/css/main.078524fb.css",
